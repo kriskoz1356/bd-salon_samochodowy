@@ -47,10 +47,7 @@ jest giga adminem i może wszystko, nawet usunąć katalog `/`
 * konsultuje się z klientem
 * wykonuje naprawy
 * wykonywanie przeglądów
-//### 2.5. Księgowa
-//* Sprawdza poprawność zamówień (czy kwoty się zgadzają)
-//* archiwizuje dokumentację
-//* nadzoruje przepływ pieniędzy
+
 
 ## 3. Diagram przypadków użycia
 ### 3.1. Kod do wykorzystania na stronie plantuml.com
