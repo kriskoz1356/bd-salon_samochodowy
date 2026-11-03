@@ -105,3 +105,7 @@ Księgowa --> UC14
 
 ### 3.2. Bezpośredni link do wygenerowanego diagramu
 https://www.plantuml.com/plantuml/png/TPFFZjCm4CRlVefHxoknRVVFNj0Yk27GYeeBjy6PjjCcTcGxiXB41R7Y6Qfz36veRoJlXLFiRBlPtk9Vlld6C-EvjGwDgufSvBHqu3GONgqTP6n8EjPA29HE6tYJ5QpOEeFX5Dbx9gEzucqyBqhJK8PUOWIJEuDohm1BnhEj9e0M5ljlL2xvM6vtA-rHY3uhgbLEC5dKrb415dEjAlX0Hb96TWBV141bIQ8DeYzeclO-Qt03LVTOk-q-6nOC37PlGCK-v-UtvuTnTwQXLHuYGw31KXjNHzbKdF3VvapA1Uied9toirXekTPPSfm_4zOhxQeDw2KPr-wYwE9PLjgGTIR8xF-cTezHU7dgVYdjqmsl3fMV1aVFJUtgE17jAQglNrOhB0twLClDgQBNR9qsOOw3RtkV6l_gCEYTtceL0Xei_lxsJ8eHIks2rLTLopN8fjrr3v9ZOja4c8pEZsfVzF-pxay8xx-KxXxQNuDlzpErpii0-lUGdbqu9iVfSJDByeetW4QkFJUCSXCAolIsAaYvSE9WisI5oXvu73s4ZvWrkkzRdxliVjGUohx8TfSrTOgOY-z276qKd9szxl-yIAT23AkMq8XS2V6qVv7DncW-HXTZT2d4iAGHNO_8pOY4IOzGcDcmtubDnsWsHdDnIoghYlmV
+
+## 4. Schemat logiczny bazy danych
+<img width="2020" height="1620" alt="image" src="https://github.com/user-attachments/assets/ef476678-504d-4aee-b387-83f96d72063a" />
+
